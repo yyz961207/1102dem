@@ -36,7 +36,7 @@
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<!-- mysql依赖的version不能删除，如果删除则变为了8版本，而8版本的url写法很麻烦！！ -->
-			<version>5.1.35</version>
+			<version>8.0.16</version>
 		</dependency>
 		<dependency>
 			<groupId>org.mybatis.generator</groupId>
